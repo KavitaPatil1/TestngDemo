@@ -14,6 +14,7 @@ public class A {
 		Assert.assertTrue(x % 2 == 0) ;
 			System.out.println(" i am m1 method");
 			
+			
 		}
 	
 @Test
